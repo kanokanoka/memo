@@ -2,8 +2,9 @@
 
 ## Sites
 
-SPDX  
-https://spdx.dev/
+|Name|memo|url|
+----|----|----
+|SPDX||https://spdx.dev/|
 
 ## Blogs/News
 
