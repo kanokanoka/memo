@@ -1,3 +1,6 @@
 # メモ集
 
-[SBOM](SBOM)
+|Category|memo|
+----|----
+|[Ransomware](Ransomware)|ランサム|
+|[SBOM](SBOM)|ソフトウェアの部品表|
