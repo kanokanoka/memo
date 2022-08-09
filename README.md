@@ -22,6 +22,7 @@
 |Name|memo|URL|
 ----|----|----
 |(ISC)2 Blog|ISC2のブログ|https://blog.isc2.org/|
+|JPCERT/CC Eyes|JPCERTの公式ブログ|https://blogs.jpcert.or.jp/ja/|
 |MITRE ATT&CK Blog||https://medium.com/mitre-attack|
 |The White House(Briefing Room)|ホワイトハウス。謎な話多め|https://www.whitehouse.gov/briefing-room/|
 
