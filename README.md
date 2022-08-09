@@ -12,4 +12,5 @@
 ## News
 
 |Name|memo|URL|
+----|----|----
 |VentureBeat||https://venturebeat.com/category/security/|
