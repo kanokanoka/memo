@@ -7,10 +7,11 @@
 |ExtraHop||https://www.extrahop.com/|
 |Sift|digital trust and safety company|https://sift.com/|
 
-## 日本の団体系
+## 民間じゃない組織
 
 |Name|memo|URL|
 ----|----|----
+|一般社団法人JPCERTコーディネーションセンター(JPCERT/CC)||https://www.jpcert.or.jp/|
 |内閣サイバーセキュリティセンター（NISC）||https://www.nisc.go.jp/|
 
 
