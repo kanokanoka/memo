@@ -13,8 +13,8 @@
 
 |Name|memo|URL|
 ----|----|----
-|VentureBeat||https://venturebeat.com/category/security/|
 |MITRE ATT&CK blog||https://medium.com/mitre-attack|
+|VentureBeat||https://venturebeat.com/category/security/|
 
 ## Lists
 
