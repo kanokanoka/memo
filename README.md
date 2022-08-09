@@ -13,6 +13,7 @@
 
 |Name|memo|URL|
 ----|----|----
+|Security NEXT|脆弱性とか漏えい事故とかの話多め|https://www.security-next.com/|
 |VentureBeat||https://venturebeat.com/category/security/|
 
 ## Blog Resources
