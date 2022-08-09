@@ -11,6 +11,7 @@
 |Name|memo|url|
 ----|----|----
 |sbom-tool|マイクロソフト|https://github.com/microsoft/sbom-tool|
+|SPDX tools|SPDX Workgroupが作ったツール群|https://github.com/spdx/tools|
 
 ## Blogs/News
 
