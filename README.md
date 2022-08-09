@@ -19,7 +19,8 @@
 
 |Name|memo|URL|
 ----|----|----
-|MITRE ATT&CK blog||https://medium.com/mitre-attack|
+|(ISC)2 Blog|ISC2のブログ|https://blog.isc2.org/|
+|MITRE ATT&CK Blog||https://medium.com/mitre-attack|
 
 
 ## Lists
