@@ -9,11 +9,12 @@
 |[SBOM](SBOM)|ソフトウェアの部品表|
 |[Vulnerability](Vulnerability)|脆弱性全般|
 
-## News
+## News/Blog Resources
 
 |Name|memo|URL|
 ----|----|----
 |VentureBeat||https://venturebeat.com/category/security/|
+|MITRE ATT&CK blog||https://medium.com/mitre-attack|
 
 ## Lists
 
