@@ -14,3 +14,9 @@
 |Name|memo|URL|
 ----|----|----
 |VentureBeat||https://venturebeat.com/category/security/|
+
+## Lists
+
+|Name|memo|
+----|----
+|[組織・会社](Organizations)||
