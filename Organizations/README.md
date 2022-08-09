@@ -4,6 +4,7 @@
 
 |Name|memo|URL|
 ----|----|----
+|CyCognito|attack surface management provider|https://www.cycognito.com/|
 |expel|MDR security provider|https://expel.com/|
 |ExtraHop||https://www.extrahop.com/|
 |Sift|digital trust and safety company|https://sift.com/|
