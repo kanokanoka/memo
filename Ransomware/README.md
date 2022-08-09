@@ -4,6 +4,7 @@
 
 |Name|memo|url|
 ----|----|----
+|ストップ！ ランサムウェア　ランサムウェア特設ページ STOP! RANSOMWARE|NISCのやつ|https://security-portal.nisc.go.jp/stopransomware/|
 |Stop Ransomware|CISAの何か|https://www.cisa.gov/stopransomware|
 
 ## Tools
