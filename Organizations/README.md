@@ -4,6 +4,7 @@
 
 |Name|memo|URL|
 ----|----|----
+|expel|MDR security provider|https://expel.com/|
 |ExtraHop||https://www.extrahop.com/|
 |Sift|digital trust and safety company|https://sift.com/|
 
