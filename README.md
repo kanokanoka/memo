@@ -13,6 +13,7 @@
 
 |Name|memo|URL|
 ----|----|----
+|CISA(US-CERT)|Current Activityのところ|https://www.cisa.gov/uscert/|
 |Security NEXT|脆弱性とか漏えい事故とかの話多め|https://www.security-next.com/|
 |VentureBeat||https://venturebeat.com/category/security/|
 
