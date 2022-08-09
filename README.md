@@ -32,3 +32,4 @@
 |Name|memo|
 ----|----
 |[組織・会社](Organizations)||
+|[人](Persons)||
