@@ -1,3 +1,3 @@
 # メモ集
 
-[SBOM](SBOM/README.md)
+[SBOM](SBOM)
