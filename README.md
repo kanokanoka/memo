@@ -6,6 +6,7 @@
 ----|----
 |[BugBounty](BugBounty)|バグバウンティ|
 |[Ransomware](Ransomware)|ランサム|
+|[OSINT](OSINT)|OSINTについて|
 |[SBOM](SBOM)|ソフトウェアの部品表|
 |[勉強系サイト](Training)|トレーニングコンテンツ|
 |[Vulnerability](Vulnerability)|脆弱性全般|
