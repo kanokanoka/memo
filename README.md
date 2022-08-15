@@ -29,6 +29,12 @@
 |MITRE ATT&CK Blog||https://medium.com/mitre-attack|
 |The White House(Briefing Room)|ホワイトハウス。謎な話多め|https://www.whitehouse.gov/briefing-room/|
 
+## Youtube Channel
+
+|Name|memo|URL|
+----|----|----
+|DEFCONConference|DEFCONの公式|https://www.youtube.com/user/DEFCONConference|
+
 
 ## Lists
 
