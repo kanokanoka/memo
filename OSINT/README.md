@@ -4,6 +4,7 @@
 
 |Name|memo|url|
 ----|----|----
+|ninosekiさん|JSACで講演をみた。OSINT周りやられている|https://ninoseki.github.io/about/|
 
 ## Tools
 
