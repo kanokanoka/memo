@@ -7,6 +7,7 @@
 |CyCognito|attack surface management provider|https://www.cycognito.com/|
 |expel|MDR security provider|https://expel.com/|
 |ExtraHop||https://www.extrahop.com/|
+|proofpoint|メール系サービス多めだが他にも|https://www.proofpoint.com/jp|
 |Sift|digital trust and safety company|https://sift.com/|
 
 ## 民間じゃない組織
