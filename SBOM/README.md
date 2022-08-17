@@ -12,6 +12,8 @@
 ----|----|----
 |sbom-tool|マイクロソフト|https://github.com/microsoft/sbom-tool|
 |SPDX tools|SPDX Workgroupが作ったツール群|https://github.com/spdx/tools|
+|FOSSOlogy|SPDXに関連したOSSという噂|https://www.fossology.org/|
+|SW360|SPDXに関連したOSSという噂|https://github.com/eclipse/sw360|
 
 ## Blogs/News
 
@@ -20,3 +22,6 @@ https://devblogs.microsoft.com/engineering-at-microsoft/microsoft-open-sources-s
 
 SPDX-LiteでSBOMを作ってみよう(2021/12/1)  
 https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120102/
+
+SPDX Documentを理解する(2021/12/01)  
+https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120101/
