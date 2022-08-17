@@ -12,3 +12,6 @@ Amazon GuardDuty|AWSサービスのデータへの悪意のあるアクセスや
 
 AWSでのセキュリティ対策3つ｜主なセキュリティサービス6つも紹介<br>
 https://www.fenet.jp/aws/column/aws-beginner/356/
+
+AWS再入門ブログリレー Amazon Inspector編<br>
+https://dev.classmethod.jp/articles/re-introduction-2020-inspector/
