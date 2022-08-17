@@ -4,6 +4,7 @@
 
 |Category|memo|
 ----|----
+|[AWS](AWS)|AWS関連|
 |[BugBounty](BugBounty)|バグバウンティ|
 |[Ransomware](Ransomware)|ランサム|
 |[OSINT](OSINT)|OSINTについて|
