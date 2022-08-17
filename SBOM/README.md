@@ -25,3 +25,6 @@ https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120102/
 
 SPDX Documentを理解する(2021/12/01)  
 https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120101/
+
+背景と具体例から学ぶ SBOM(2022/8/15)  
+https://yamory.io/blog/about-software-bill-of-materials/
