@@ -36,7 +36,6 @@
 ----|----|----
 |DEFCONConference|DEFCONの公式|https://www.youtube.com/user/DEFCONConference|
 
-
 ## Lists
 
 |Name|memo|
