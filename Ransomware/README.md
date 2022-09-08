@@ -1,5 +1,10 @@
 # Ransomware
 
+## Ransomware
+
+|Name|memo|
+----|----
+
 ## Sites
 
 |Name|memo|url|
