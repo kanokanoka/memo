@@ -1,9 +1,10 @@
 # Ransomware
 
-## Ransomware
+## Ransomware / group
 
-|Name|memo|
-----|----
+|Name|memo|url|
+----|----|----
+|REvil||https://ja.wikipedia.org/wiki/REvil|
 
 ## Sites
 
