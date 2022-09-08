@@ -14,5 +14,5 @@
 
 ## Blogs/News
 
-Kaseya VSA のサプライチェーンを標的にした REvil ランサムウェア攻撃  
+Kaseya VSA のサプライチェーンを標的にした REvil ランサムウェア攻撃(2021/7/12, sophos)  
 https://news.sophos.com/ja-jp/2021/07/12/kaseya-vsa-supply-chain-ransomware-attack-jp/
