@@ -8,6 +8,7 @@
 |expel|MDR security provider|https://expel.com/|
 |ExtraHop||https://www.extrahop.com/|
 |Proofpoint|メール系サービス多めだが他にも|https://www.proofpoint.com/jp|
+|Red Canary|isc2のWebinarでよく見る|https://redcanary.com/|
 |Sift|digital trust and safety company|https://sift.com/|
 
 ## 民間じゃない組織
