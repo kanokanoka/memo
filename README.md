@@ -30,6 +30,7 @@
 |MITRE ATT&CK Blog||https://medium.com/mitre-attack|
 |The White House(Briefing Room)|ホワイトハウス。謎な話多め|https://www.whitehouse.gov/briefing-room/|
 |The Red Canary Blog|まだ謎。多分threatとかintelligenceとか|https://redcanary.com/blog/|
+|Cisco Talos blog|podcastがノリノリ|https://blog.talosintelligence.com/|
 
 ## Youtube Channel
 
