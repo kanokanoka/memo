@@ -18,7 +18,7 @@
 ----|----|----
 |CISA(US-CERT)|Current Activityのところ|https://www.cisa.gov/uscert/|
 |Security NEXT|脆弱性とか漏えい事故とかの話多め|https://www.security-next.com/|
-|VentureBeat||https://venturebeat.com/category/security/|
+|VentureBeat|〇〇国の〇〇社がAラウンドで３５億調達みたいな記事が多い|https://venturebeat.com/category/security/|
 |ZDNet Japan(Security)|日本語|https://japan.zdnet.com/security/|
 
 ## Blog Resources
