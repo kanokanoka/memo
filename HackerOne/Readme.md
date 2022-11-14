@@ -18,4 +18,8 @@ https://api.hackerone.com/customer-resources/#assets
 |Name|memo|url|
 ----|----|----
 
+## やったこと
+
+・APIトークン作成.md
+
 ## Blogs/News
